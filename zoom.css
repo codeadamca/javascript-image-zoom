@@ -1,0 +1,14 @@
+#zoom-target {
+    position: relative;
+    box-sizing: border-box;
+    width: 400px;
+    height: 300px;
+}
+#zoom-mag {
+    position: absolute;
+    box-sizing: border-box;
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+    top: 0px;
+}
