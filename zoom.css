@@ -12,3 +12,14 @@
     border: 1px solid red;
     top: 0px;
 }
+#zoom-viewer {
+    position: relative;
+    box-sizing: border-box;
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+    overflow: hidden;
+}
+#zoom-image {
+    position: absolute;
+}
