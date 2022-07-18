@@ -1,4 +1,4 @@
-# javascript-image-zoom
+# sing JavaScript to Create an Image Zoom Tool
 
 A basic image zooming script using HTML, CSS, and JavaScript.
 
