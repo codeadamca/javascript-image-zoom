@@ -2,7 +2,9 @@
 
 A basic image zooming script using HTML, CSS, and JavaScript.
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
